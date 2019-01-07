@@ -14,3 +14,5 @@ A collection of visual stories from different media(updating)
 - Washington Post: https://www.washingtonpost.com/graphics/2018/ns/best-graphics/
 
 - The Economist: https://www.economist.com/graphic-detail/2018/12/01/the-2018-daily-chart-advent-calendar
+
+- Pudding: https://pudding.cool/process/pudding-awards-2018/
